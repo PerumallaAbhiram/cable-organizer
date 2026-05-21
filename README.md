@@ -131,17 +131,3 @@ The main goal of this project was to create a cable organizer that is:
 Contributions, suggestions, and improvements are always welcome! 🚀
 
 ---
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
-
----
-
-<div align="center">
-
-## 🔥 Clean Setup • Smart Design • Easy Manufacturing 🔥
-
-Made with ❤️ using **Autodesk Fusion 360**
-
-</div>
